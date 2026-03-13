@@ -1,7 +1,6 @@
 import data
 import helpers
 
-
 class TestUrbanRoutes:
     #Verificar se esta conectado a plataforma da Urban
     @classmethod
